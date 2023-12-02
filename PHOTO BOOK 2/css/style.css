@@ -1,0 +1,74 @@
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.title{
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+
+}
+.L {
+    padding: 15px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.imgq{
+    left: 200px;
+}
+.LL{
+    padding: 40px;
+}
+.textk{
+    /* padding-left: 700px; */
+    
+}
+.row2{
+    display: flex;
+    /* grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px;
+    gap: 100px; */
+}
+
+.index{
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.imgnn {
+    display: flexbox;
+}
+.wq{
+    border: 0.1rem solid #333333;
+    padding: 30px;
+}
+/*
+#index{
+    padding: 10px;
+    background-color: white;
+    margin: 15px 15px 50px;
+    padding: 60px;
+}
+*/
+
+ol {
+    max-width: 1000px;
+    margin: 0 auto; /* 中央寄せ */
+    padding: 0px; /* 追加の余白を削除 */
+    list-style-position: inside; /* 箇条書きの数字を中央揃えに */
+    display: flex; /* Flexbox を使用 */
+    flex-direction: column; /* 縦に配置 */
+    align-items: flex-start; /* 左揃え */
+}
+li{
+    margin: 0px 114.961px 0px 114.953px;
+}
+dd{
+   margin: 0px 0px 10px 0px;
+}
+.ss{
+    padding: 60px;
+}
+.qqq{
+    padding: 0px 0px 0px 40px;
+}
